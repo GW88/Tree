@@ -627,12 +627,7 @@ public class RedBlackTree<K extends Comparable<K>,V> {
 
         return temporary;
     }
-    private RedBlackNode<K,V> rightSuccesor(RedBlackNode<K,V> value){
-        if (value.rightChild == null){
-            return value;
-        }
-        return rightSuccesor(value.rightChild);
-    }
+
 
     private RedBlackNode<K,V> predecessor(RedBlackNode<K,V> value){
         if (value.rightChild == null){
