@@ -12,7 +12,7 @@ Things you will meet at Tree imlementation from scratch
 
 2. AVL Tree is not added yet, 
 
-3. Red Black Tree is not added yet
+3. Red Black Tree (Basic Operations (Add, Search, Delete) commited
 
 4. Heap is not added yet. 
 
