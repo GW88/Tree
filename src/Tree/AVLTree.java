@@ -114,7 +114,7 @@ public class AVLTree<K extends Comparable<K>, V> {
     /**
      *
      * @param key K
-     * @return deleted Value
+     * @return true
      * checkbalance after every deletion on parent node that has been deleted
      */
     public  boolean remove(K key){
