@@ -10,7 +10,7 @@ Things you will meet at Tree imlementation from scratch
 1. Binary Search Tree (basic operations (add, search, delete) and little bit more, 
    things like visiting all leafs, parents, siblings, traversal, path's etc. ) commited.
 
-2. AVL Tree is not added yet, 
+2. AVL Tree (Basic Operations (Add, Search, Delete) commited 
 
 3. Red Black Tree (Basic Operations (Add, Search, Delete) commited
 
