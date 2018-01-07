@@ -14,7 +14,7 @@ Things you will meet at Tree imlementation from scratch
 
 3. Red Black Tree (Basic Operations (Add, Search, Delete) commited
 
-4. Heap is not added yet. 
+4. Heap (Basic Operations (Add, Search, Remove) Commited
 
 5. all the ather trees (like AA Tree, B Tree etc)
 
